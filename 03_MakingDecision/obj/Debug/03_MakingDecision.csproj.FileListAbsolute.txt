@@ -1,0 +1,2 @@
+C:\Users\unlmt\source\repos\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\unlmt\source\repos\CSharpEgitimKampi\03_MakingDecision\obj\Debug\03_MakingDecision.csproj.CoreCompileInputs.cache
