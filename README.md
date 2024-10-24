@@ -1,4 +1,4 @@
-☄️C# EĞİTİM KAMPI PROJELERİ☄️
+☄️ C# EĞİTİM KAMPI PROJELERİ ☄️
 
 Bu repo, Murat Yücedağ'ın C# Eğitim Kampı programında gerçekleştirdiğim ilk 9 projeyi içermektedir. Bu eğitim sayesinde her bir proje içinde farklı programlama kavramlarını öğrenme ve bu kavramların çeşitli uygulama alanlarını deneyimleme fırsatında bulundum. Aşşağıda bu deneyimlerimi gerçekleştirdiğim proje detaylarını görebilirsiniz:
 
