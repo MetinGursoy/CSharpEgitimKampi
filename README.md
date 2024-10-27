@@ -29,4 +29,7 @@ Bu proje içerisinde, geriye değer döndüren metotları inceledim ve Kullanıc
 💥 9. Proje: 
 Bu proje içerisinde, SQL ile veri tabanı oluşturmayı ve bu veri tabanını C# 'a bağlamayı öğrendim. Bu uygulamayı öğrenirken bir yemek katoloğu yapma deneyimim oldu ve bu sayede daha karmaşık işlemleri deneyimledim.
 
+💥 10. Proje: 
+Bu proje içerisinde, SQL ile oluşturduğum veri tabanlarına C# üzerinde veri eklemeyi, veri silmeyi ve veri güncellemeyi öğrendim. Bu sayede C# 'ın karmaşık yapılarını deneyimlemiş oldum.
+
 Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
