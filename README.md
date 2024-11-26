@@ -45,6 +45,7 @@ Bu proje içerisinde, SQL ile oluşturduğum veri tabanlarına C# üzerinde veri
 💥 11. Proje: EfTravel İstatistik Paneli
 
 Bu proje içerisinde, Entity Framework kullanarak veri tabanına bağlantı kurma ve sorgulama işlemlerini efektif bir şekilde kullanmayı öğrendim. Windows Forms uygulaması üzerinde ki veri tabanında bilgileri görsel hale getirerek bir arayüz tasarladım. Bu proje sayesinde veri tabanı bilgilerimi geliştirdim.
-![image](https://github.com/user-attachments/assets/c3d522df-1cdc-47ee-b071-37027554ef8f)
+![image](https://github.com/user-attachments/assets/2a6ba1fa-a6ed-4f2f-92a5-bea22de62b92)
+
 
 Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
