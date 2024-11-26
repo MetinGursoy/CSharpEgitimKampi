@@ -26,10 +26,13 @@ Bu proje içerisinde, foreach döngüsünü daha detaylı analiz ederek bir sın
 💥 8. Proje: Geriye Değer Döndüren Fonksiyonlar
 Bu proje içerisinde, geriye değer döndüren metotları inceledim ve Kullanıcıdan aldığım verileri farklı şekilde kullanarak sonuçlara döndüren fonksiyonlar oluşturdum. Bu proje ile beraber kodlama hakkında daha karmaşık işlemler görmüş oldum. 
 
-💥 9. Proje: 
+💥 9. Proje: Veritabanı Tabanlı Ürün-Kategori Bilgi Sistemi
 Bu proje içerisinde, SQL ile veri tabanı oluşturmayı ve bu veri tabanını C# 'a bağlamayı öğrendim. Bu uygulamayı öğrenirken bir yemek katoloğu yapma deneyimim oldu ve bu sayede daha karmaşık işlemleri deneyimledim.
 
-💥 10. Proje: 
+💥 10. Proje: Menü Sipariş İşlem Paneli
 Bu proje içerisinde, SQL ile oluşturduğum veri tabanlarına C# üzerinde veri eklemeyi, veri silmeyi ve veri güncellemeyi öğrendim. Bu sayede C# 'ın karmaşık yapılarını deneyimlemiş oldum.
+
+💥 11. Proje: EfTravel İstatistik Paneli
+Bu proje içerisinde, Entity Framework kullanarak veri tabanına bağlantı kurma ve sorgulama işlemlerini efektif bir şekilde kullanmayı öğrendim. Windows Forms uygulaması üzerinde ki veri tabanında bilgileri görsel hale getirerek bir arayüz tasarladım. Bu proje sayesinde veri tabanı bilgilerimi geliştirdim.
 
 Bu projeler sayesinde C# diline dair temel kavramları uygulamalı olarak öğrenme fırsatı buldum. İlerleyen projelerde bu bilgileri daha da geliştireceğim!
